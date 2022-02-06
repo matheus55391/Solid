@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gfKx5ErkVytIExjqs21YjZiJyo6Sg9k5fFr0QkiSVhU=",
+  "Source": "backend-scrumplace",
+  "BasePath": "_content/backend-scrumplace",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c66a17d2-88aa-4ac8-a5f1-e5c1502eb25e": {
+      "ProjectGuid": "c66a17d2-88aa-4ac8-a5f1-e5c1502eb25e",
+      "DisplayName": "backend-scrumplace",
+      "ColorIndex": 0
+    },
+    "a75b087e-01f1-4b63-b346-ec2beff1595b": {
+      "ProjectGuid": "a75b087e-01f1-4b63-b346-ec2beff1595b",
+      "DisplayName": "IntegrationTests",
+      "ColorIndex": 1
+    },
+    "e50efb7b-1839-41d2-a8d0-47ec04d0ca8e": {
+      "ProjectGuid": "e50efb7b-1839-41d2-a8d0-47ec04d0ca8e",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

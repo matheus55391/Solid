@@ -1,0 +1,13 @@
+- props 
+- states
+- splice (indice, 1) para deletar 1 item do array
+- funcaoExemplo.bind(this) para evitar o erro do contexto do this em um evento do html
+- boas práticas: criar um objeto e criar funções de callback para notificar (meme ?)
+- componentDidMount: é chamado quando o componente está pronto , consultar em api devem ser feita nele
+- <Fragment></Fragment>: criar uma tag vazia para encapsular todas as tags retornando 1 único elemento no render
+- material-ui para biblioteca arrumada: acessar o site para saber o npm install
+- const [nome,setNome] = useState("teste") : para criar um objeto com estado
+- não utilizar hooks como useState dentro de condicionais ou loops, somente em nivel superior da função e em componentes react, a função deve ter a primeira letra maiúscula
+
+- props são passadas como parâmetro para uma function component
+- onBlur : evento disparado quando um elemento perde o foco
